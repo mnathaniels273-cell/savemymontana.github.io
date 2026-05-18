@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://savemymontana.github.io/sitemap.xml
